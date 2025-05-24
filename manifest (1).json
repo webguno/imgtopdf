@@ -1,6 +1,6 @@
 {
-    "name": "MS Point",
-    "short_name": "Ms Point",
+    "name": "IMG TO PDF",
+    "short_name": "IMG TO PDF,
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#ffff",
